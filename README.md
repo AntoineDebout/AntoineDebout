@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My thedev.world live stats
+
+[![My The Dev World stats](https://thedev.world/og/AntoineDebout)](https://thedev.world/u/AntoineDebout)
